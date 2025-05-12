@@ -5,6 +5,8 @@ An out-of-the-box animation visualization editor ｜ 一款开箱即用的动画
 
 项目完全开源，开源不易，可以点个【star】支持一下哦～
 
+国内镜像：https://gitee.com/lowcode-china/rean-editor
+
 Remotion 动画编辑器是一个基于 Web 技术构建的现代化视频动画创作工具，采用了以下技术栈：
 
 - **前端框架**：Next.js 14 (App Router)
